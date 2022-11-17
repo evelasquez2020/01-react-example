@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Primer Hola Mundo</h1>
         <h2>Segundo Hola Mundo</h2>
+        <h2>Actualización URL</h2>
         <a
           className="App-link"
           href="https://reactjs.org"
